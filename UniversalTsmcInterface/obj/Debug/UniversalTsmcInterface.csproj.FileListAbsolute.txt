@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\tsmcinterface改\bin\Debug\UniversalTsmcInterface.dll
+C:\Users\user\Downloads\tsmcinterface改\bin\Debug\UniversalTsmcInterface.pdb
+C:\Users\user\Downloads\tsmcinterface改\bin\Debug\Mackoy.IInputDevice.dll
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\UniversalTsmcInterface.csprojAssemblyReference.cache
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\Mackoy.Bvets.TsmcInterface.ConfigForm.resources
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\UniversalTsmcInterface.csproj.GenerateResource.cache
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\UniversalTsmcInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\UniversalTsmcInterface.csproj.CopyComplete
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\UniversalTsmcInterface.dll
+C:\Users\user\Downloads\tsmcinterface改\obj\Debug\UniversalTsmcInterface.pdb
